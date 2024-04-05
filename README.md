@@ -2,8 +2,8 @@
 
 
 # Instrucciones 
-#  npm i
-# npm rundev
+# 1 npm i para instalar paquetes
+# npm run dev para correr el projecto
 
 
 
